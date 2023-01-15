@@ -2,7 +2,7 @@
 - 👀 I’m interested in **developing and exploring myself...**
 - 🌱 I’m trained on **Java,Sql,Web Tech,...**
 - 💞️ I’m looking to collaborate on anything...
-- 📫 How to reach me sudarshanjamdar9612@gmail.com
+- 📫 How to reach me sudarshanjamdar9612@gmail.com 	:smile:
 
 <!---
 Sudarshan-jamdar-9612/Sudarshan-jamdar-9612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
